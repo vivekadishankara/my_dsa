@@ -1,4 +1,4 @@
-mod p1_two_sum;
+mod problem_1;
 mod p2_add_two_numbers;
 mod p3_longest_substring;
 mod p5_longest_palindrome;
